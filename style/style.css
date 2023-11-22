@@ -173,17 +173,6 @@ body {
   .about__description, .work__description {
     height: unset;
   }
-  .project {
-    padding: 50px;
-  }
-  .project__img {
-    height: 40px;
-    width: 40px;
-    margin-right: 10px;
-  }
-  .project__title {
-    height: 15px;
-  }
   .work__image {
     height: 500px;
   }
