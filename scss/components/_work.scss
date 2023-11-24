@@ -33,7 +33,7 @@
     @include description;
   }
 
-  @include desktop {
+  @include desktop(1127px) {
     padding: 75px 0;
 
     &__description {

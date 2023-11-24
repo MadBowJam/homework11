@@ -1,4 +1,4 @@
-@mixin desktop() {
+@mixin desktop($desktop: 1110px) {
   @media (max-width: $desktop) {
     @content;
   }
